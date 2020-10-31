@@ -6,6 +6,8 @@ public class HelloGitDay3 {
         System.out.println("Day3 action4");
         System.out.println("Day3 action5");
         System.out.println("Day3 action6");
+        System.out.println("Day3 action10");
+        System.out.println("Day3 action11");
 
     }
 }
